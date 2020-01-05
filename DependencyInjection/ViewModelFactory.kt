@@ -1,4 +1,4 @@
-package org.xlfdll.android.di
+package org.xlfdll.android.dependencyinjection
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
